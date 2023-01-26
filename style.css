@@ -1,0 +1,58 @@
+.inline {
+  border-top: 1px solid red;
+  border-bottom: 1px solid red;
+  border-left: 1px solid blue;
+  border-right: 1px solid blue;
+  margin-bottom: 20px;
+}
+
+.block {
+  border-top: 2px solid green;
+  border-bottom: 2px solid blue;
+  margin-top: 10px;
+}
+
+.border {
+  /* margin-top: 20px; */
+  border-top: 2px solid yellowgreen;
+}
+
+.margin-b {
+  margin-bottom: 30px;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.orange {
+  background-color: ora nge;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.black {
+  background-color: black;
+}
+
+p {
+  border: 1px solid red;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+img {
+  width: 200px;
+}
